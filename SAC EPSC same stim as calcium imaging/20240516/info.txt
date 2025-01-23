@@ -1,0 +1,25 @@
+20240516 #3832 1.5M CT
+VC SACs of Mbar +/- noise +/- mglur2 antagonist
+
+4x8 mBar  
+
+LV
+3 	mtest
+4 	bar
+5	checker
+6 	mtest	WASH in antagonist
+7	checker
+8 	bar
+9	mtest
+
+RD
+12	mtest
+13	bar
+14	checker
+15	mtest
+WASH
+16	mtest
+17	checker
+18 	bar, lost after couple reps
+
+(change to 1 direction and 10 rep for next time)

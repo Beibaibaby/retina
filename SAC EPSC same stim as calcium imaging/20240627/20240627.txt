@@ -1,0 +1,37 @@
+20240627	CTD whole cell recording
+m bar 10 rep, 1 dir, w/w- noise
+WASH mglur2 antagonist
+
+RD
+0	mtest	
+1	checker
+2	bar
+3	mtest
+4 	checker
+5	bar
+WASH IN
+6 	m test 
+7	mtest after 3 min
+8	bar
+9 	checker
+10 	mtest
+
+cell 2
+RV
+11	mtest
+12	checker
+13	bar
+14	mtest	LEAK?
+XXXX
+
+cell 3
+15	mtest
+16	checker
+17 	bar
+18 	mtest	
+19 checker (start wash in!)  more stable now
+20 	mtest
+21 	mtest  lost cell
+22	checker		saved? No EPSC
+23 	bar
+24	mtest

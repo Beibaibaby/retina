@@ -1,0 +1,26 @@
+20240611
+CT #3914 F 48d
+1x10 mbar w/w- noise followed by mglur2 antagonist
+
+RD
+0	mtest
+1	checker
+2	bar
+3	mtest
+XXXXX
+
+XXXXX
+
+XXXXX
+
+LV
+8	mtest
+9	bar
+10	checker
+11	mtest
+WASH
+12	mtest
+13	checker
+14	bar
+
+
